@@ -1,8 +1,0 @@
-svn://192.168.1.77/Document/接口文档/长宁公共文化服务接口文档
-
-
-login 
-
-username:admin
-
-pwd:123123
