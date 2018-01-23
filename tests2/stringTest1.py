@@ -4,8 +4,8 @@ class StringTestCase(unittest.TestCase):
     def setUp(self):
         self.test_string="This is a string"
 
-    def testReverse(self):
-       self.assertEqual("gnirts a si sihT",self.test_string[::-1])
+    #def testReverse(self):
+       #self.assertEqual("gnirts a si sihT",self.test_string[::-1])
 
     def testSplit(self):
         expected = ["This","is","a","string"]
