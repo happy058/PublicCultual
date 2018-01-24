@@ -15,8 +15,8 @@ class StringTestCase(unittest.TestCase):
     #def testLower(self):
         #self.assertEqual("this is a string",self.test_string.lower())
 
-    def testUpper(self):
-        self.assertEqual("THIS IS A STRING",self.test_string.upper())
+    #def testUpper(self):
+        #self.assertEqual("THIS IS A STRING",self.test_string.upper())
 
     def testRstrip(self):
         string = "This is a string        "
